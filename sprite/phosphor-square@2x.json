@@ -1,0 +1,359 @@
+{
+  "aerodrome": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "alpine_hut": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 0
+  },
+  "artwork": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 0
+  },
+  "attraction": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 0
+  },
+  "beach": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 0
+  },
+  "bicycle_parking": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 240,
+    "y": 0
+  },
+  "bicycle_rental": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 288,
+    "y": 0
+  },
+  "cafe": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 336,
+    "y": 0
+  },
+  "camp_site": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 384,
+    "y": 0
+  },
+  "cemetary": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 432,
+    "y": 0
+  },
+  "church": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 48
+  },
+  "cinema": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 96
+  },
+  "college": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 144
+  },
+  "courthouse": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 192
+  },
+  "drinking_water": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 240
+  },
+  "exhibition_centre": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 288
+  },
+  "fishing": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 336
+  },
+  "forest": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 384
+  },
+  "garden": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 432
+  },
+  "golf_course": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 48
+  },
+  "hospital": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 48
+  },
+  "hotel": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 48
+  },
+  "information": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 48
+  },
+  "landmark": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 240,
+    "y": 48
+  },
+  "library": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 288,
+    "y": 48
+  },
+  "marina": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 336,
+    "y": 48
+  },
+  "memorial": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 384,
+    "y": 48
+  },
+  "military": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 432,
+    "y": 48
+  },
+  "mosque": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 96
+  },
+  "museum": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 144
+  },
+  "national_park": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 192
+  },
+  "nature_reserve": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 240
+  },
+  "park": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 288
+  },
+  "peak": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 336
+  },
+  "picnic_site": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 384
+  },
+  "picnic_table": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 432
+  },
+  "place_of_worship": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 96
+  },
+  "playground": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 96
+  },
+  "railway": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 96
+  },
+  "school": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 240,
+    "y": 96
+  },
+  "sport_center": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 288,
+    "y": 96
+  },
+  "stadium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 336,
+    "y": 96
+  },
+  "station": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 384,
+    "y": 96
+  },
+  "swimming": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 432,
+    "y": 96
+  },
+  "synagogue": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 144
+  },
+  "theatre": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 192
+  },
+  "toilet": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 240
+  },
+  "townhall": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 288
+  },
+  "university": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 336
+  },
+  "viewpoint": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 384
+  },
+  "zoo": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 432
+  }
+}
